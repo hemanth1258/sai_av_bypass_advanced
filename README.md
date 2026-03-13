@@ -1,4 +1,4 @@
-# Sai AV Bypass - Antivirus Evasion Tool
+# Legion AV Bypass - Antivirus Evasion Tool
 
 Sai AV Bypass is a tool designed for educational and ethical security testing purposes. It implements various antivirus evasion techniques to help security professionals understand and test defense mechanisms.
 
